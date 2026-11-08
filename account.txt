@@ -1,6 +1,6 @@
 [
     {
-        "name": "datr",
+        "name": "mahin
         "value": "Gn3warDwEkEGaW90qY1EtTge",
         "domain": ".instagram.com",
         "hostOnly": false,
