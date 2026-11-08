@@ -5,7 +5,7 @@
         "domain": ".instagram.com",
         "hostOnly": false,
         "path": "/",
-        "secure": true,
+        "secure": true
         "httpOnly": true,
         "sameSite": "no_restriction",
         "session": false,
