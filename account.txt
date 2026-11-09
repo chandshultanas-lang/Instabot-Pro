@@ -1,11 +1,11 @@
 [
     {
-        "name": "datr
+        "name": "datr",
         "value": "Gn3warDwEkEGaW90qY1EtTge",
         "domain": ".instagram.com",
         "hostOnly": false,
         "path": "/",
-        "secure": true
+        "secure": true,
         "httpOnly": true,
         "sameSite": "no_restriction",
         "session": false,
